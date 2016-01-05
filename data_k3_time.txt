@@ -1,0 +1,220 @@
+Time for k =  3, n =  3, r =  3 : 0.00 seconds.
+aw(n=03,k=03) = 3.
+Time for k =  3, n =  4, r =  3 : 0.00 seconds.
+Time for k =  3, n =  4, r =  4 : 0.00 seconds.
+aw(n=04,k=03) = 4.
+Time for k =  3, n =  5, r =  3 : 0.00 seconds.
+Time for k =  3, n =  5, r =  4 : 0.00 seconds.
+aw(n=05,k=03) = 4.
+Time for k =  3, n =  6, r =  3 : 0.00 seconds.
+Time for k =  3, n =  6, r =  4 : 0.00 seconds.
+aw(n=06,k=03) = 4.
+Time for k =  3, n =  7, r =  3 : 0.00 seconds.
+Time for k =  3, n =  7, r =  4 : 0.00 seconds.
+aw(n=07,k=03) = 4.
+Time for k =  3, n =  8, r =  3 : 0.00 seconds.
+Time for k =  3, n =  8, r =  4 : 0.00 seconds.
+Time for k =  3, n =  8, r =  5 : 0.00 seconds.
+aw(n=08,k=03) = 5.
+Time for k =  3, n =  9, r =  3 : 0.00 seconds.
+Time for k =  3, n =  9, r =  4 : 0.00 seconds.
+aw(n=09,k=03) = 4.
+Time for k =  3, n = 10, r =  3 : 0.00 seconds.
+Time for k =  3, n = 10, r =  4 : 0.00 seconds.
+Time for k =  3, n = 10, r =  5 : 0.00 seconds.
+aw(n=10,k=03) = 5.
+Time for k =  3, n = 11, r =  3 : 0.00 seconds.
+Time for k =  3, n = 11, r =  4 : 0.00 seconds.
+Time for k =  3, n = 11, r =  5 : 0.00 seconds.
+aw(n=11,k=03) = 5.
+Time for k =  3, n = 12, r =  3 : 0.00 seconds.
+Time for k =  3, n = 12, r =  4 : 0.00 seconds.
+Time for k =  3, n = 12, r =  5 : 0.00 seconds.
+aw(n=12,k=03) = 5.
+Time for k =  3, n = 13, r =  3 : 0.00 seconds.
+Time for k =  3, n = 13, r =  4 : 0.00 seconds.
+Time for k =  3, n = 13, r =  5 : 0.00 seconds.
+aw(n=13,k=03) = 5.
+Time for k =  3, n = 14, r =  3 : 0.00 seconds.
+Time for k =  3, n = 14, r =  4 : 0.00 seconds.
+Time for k =  3, n = 14, r =  5 : 0.00 seconds.
+aw(n=14,k=03) = 5.
+Time for k =  3, n = 15, r =  3 : 0.00 seconds.
+Time for k =  3, n = 15, r =  4 : 0.00 seconds.
+Time for k =  3, n = 15, r =  5 : 0.00 seconds.
+aw(n=15,k=03) = 5.
+Time for k =  3, n = 16, r =  3 : 0.00 seconds.
+Time for k =  3, n = 16, r =  4 : 0.00 seconds.
+Time for k =  3, n = 16, r =  5 : 0.00 seconds.
+aw(n=16,k=03) = 5.
+Time for k =  3, n = 17, r =  3 : 0.00 seconds.
+Time for k =  3, n = 17, r =  4 : 0.00 seconds.
+Time for k =  3, n = 17, r =  5 : 0.00 seconds.
+aw(n=17,k=03) = 5.
+Time for k =  3, n = 18, r =  3 : 0.00 seconds.
+Time for k =  3, n = 18, r =  4 : 0.00 seconds.
+Time for k =  3, n = 18, r =  5 : 0.00 seconds.
+aw(n=18,k=03) = 5.
+Time for k =  3, n = 19, r =  3 : 0.00 seconds.
+Time for k =  3, n = 19, r =  4 : 0.00 seconds.
+Time for k =  3, n = 19, r =  5 : 0.01 seconds.
+aw(n=19,k=03) = 5.
+Time for k =  3, n = 20, r =  3 : 0.00 seconds.
+Time for k =  3, n = 20, r =  4 : 0.00 seconds.
+Time for k =  3, n = 20, r =  5 : 0.02 seconds.
+aw(n=20,k=03) = 5.
+Time for k =  3, n = 21, r =  3 : 0.00 seconds.
+Time for k =  3, n = 21, r =  4 : 0.00 seconds.
+Time for k =  3, n = 21, r =  5 : 0.02 seconds.
+aw(n=21,k=03) = 5.
+Time for k =  3, n = 22, r =  3 : 0.00 seconds.
+Time for k =  3, n = 22, r =  4 : 0.00 seconds.
+Time for k =  3, n = 22, r =  5 : 0.04 seconds.
+Time for k =  3, n = 22, r =  6 : 0.03 seconds.
+aw(n=22,k=03) = 6.
+Time for k =  3, n = 23, r =  4 : 0.01 seconds.
+Time for k =  3, n = 23, r =  5 : 0.04 seconds.
+Time for k =  3, n = 23, r =  6 : 0.05 seconds.
+aw(n=23,k=03) = 6.
+Time for k =  3, n = 24, r =  4 : 0.00 seconds.
+Time for k =  3, n = 24, r =  5 : 0.02 seconds.
+Time for k =  3, n = 24, r =  6 : 0.09 seconds.
+aw(n=24,k=03) = 6.
+Time for k =  3, n = 25, r =  4 : 0.01 seconds.
+Time for k =  3, n = 25, r =  5 : 0.06 seconds.
+Time for k =  3, n = 25, r =  6 : 0.12 seconds.
+aw(n=25,k=03) = 6.
+Time for k =  3, n = 26, r =  4 : 0.01 seconds.
+Time for k =  3, n = 26, r =  5 : 0.09 seconds.
+Time for k =  3, n = 26, r =  6 : 0.17 seconds.
+aw(n=26,k=03) = 6.
+Time for k =  3, n = 27, r =  4 : 0.01 seconds.
+Time for k =  3, n = 27, r =  5 : 0.54 seconds.
+aw(n=27,k=03) = 5.
+Time for k =  3, n = 28, r =  3 : 0.00 seconds.
+Time for k =  3, n = 28, r =  4 : 0.01 seconds.
+Time for k =  3, n = 28, r =  5 : 0.41 seconds.
+Time for k =  3, n = 28, r =  6 : 0.41 seconds.
+aw(n=28,k=03) = 6.
+Time for k =  3, n = 29, r =  4 : 0.02 seconds.
+Time for k =  3, n = 29, r =  5 : 0.42 seconds.
+Time for k =  3, n = 29, r =  6 : 0.64 seconds.
+aw(n=29,k=03) = 6.
+Time for k =  3, n = 30, r =  4 : 0.02 seconds.
+Time for k =  3, n = 30, r =  5 : 0.34 seconds.
+Time for k =  3, n = 30, r =  6 : 1.03 seconds.
+aw(n=30,k=03) = 6.
+Time for k =  3, n = 31, r =  4 : 0.03 seconds.
+Time for k =  3, n = 31, r =  5 : 0.60 seconds.
+Time for k =  3, n = 31, r =  6 : 1.40 seconds.
+aw(n=31,k=03) = 6.
+Time for k =  3, n = 32, r =  4 : 0.05 seconds.
+Time for k =  3, n = 32, r =  5 : 1.00 seconds.
+Time for k =  3, n = 32, r =  6 : 1.92 seconds.
+aw(n=32,k=03) = 6.
+Time for k =  3, n = 33, r =  4 : 0.06 seconds.
+Time for k =  3, n = 33, r =  5 : 1.53 seconds.
+Time for k =  3, n = 33, r =  6 : 2.84 seconds.
+aw(n=33,k=03) = 6.
+Time for k =  3, n = 34, r =  4 : 0.10 seconds.
+Time for k =  3, n = 34, r =  5 : 2.54 seconds.
+Time for k =  3, n = 34, r =  6 : 4.50 seconds.
+aw(n=34,k=03) = 6.
+Time for k =  3, n = 35, r =  4 : 0.07 seconds.
+Time for k =  3, n = 35, r =  5 : 3.58 seconds.
+Time for k =  3, n = 35, r =  6 : 6.59 seconds.
+aw(n=35,k=03) = 6.
+Time for k =  3, n = 36, r =  4 : 0.06 seconds.
+Time for k =  3, n = 36, r =  5 : 5.27 seconds.
+Time for k =  3, n = 36, r =  6 : 10.56 seconds.
+aw(n=36,k=03) = 6.
+Time for k =  3, n = 37, r =  4 : 0.08 seconds.
+Time for k =  3, n = 37, r =  5 : 7.73 seconds.
+Time for k =  3, n = 37, r =  6 : 14.81 seconds.
+aw(n=37,k=03) = 6.
+Time for k =  3, n = 38, r =  4 : 0.12 seconds.
+Time for k =  3, n = 38, r =  5 : 10.94 seconds.
+Time for k =  3, n = 38, r =  6 : 23.72 seconds.
+aw(n=38,k=03) = 6.
+Time for k =  3, n = 39, r =  4 : 0.17 seconds.
+Time for k =  3, n = 39, r =  5 : 7.60 seconds.
+Time for k =  3, n = 39, r =  6 : 32.89 seconds.
+aw(n=39,k=03) = 6.
+Time for k =  3, n = 40, r =  4 : 0.14 seconds.
+Time for k =  3, n = 40, r =  5 : 6.14 seconds.
+Time for k =  3, n = 40, r =  6 : 51.38 seconds.
+aw(n=40,k=03) = 6.
+Time for k =  3, n = 41, r =  4 : 0.18 seconds.
+Time for k =  3, n = 41, r =  5 : 8.31 seconds.
+Time for k =  3, n = 41, r =  6 : 73.23 seconds.
+aw(n=41,k=03) = 6.
+Time for k =  3, n = 42, r =  4 : 0.32 seconds.
+Time for k =  3, n = 42, r =  5 : 13.46 seconds.
+Time for k =  3, n = 42, r =  6 : 122.83 seconds.
+aw(n=42,k=03) = 6.
+Time for k =  3, n = 43, r =  4 : 0.47 seconds.
+Time for k =  3, n = 43, r =  5 : 19.02 seconds.
+Time for k =  3, n = 43, r =  6 : 163.92 seconds.
+aw(n=43,k=03) = 6.
+Time for k =  3, n = 44, r =  4 : 0.34 seconds.
+Time for k =  3, n = 44, r =  5 : 29.84 seconds.
+Time for k =  3, n = 44, r =  6 : 251.63 seconds.
+aw(n=44,k=03) = 6.
+Time for k =  3, n = 45, r =  4 : 0.45 seconds.
+Time for k =  3, n = 45, r =  5 : 181.19 seconds.
+Time for k =  3, n = 45, r =  6 : 355 seconds.
+aw(n=45,k=03) = 6.
+Time for k =  3, n = 46, r =  4 : 0.75 seconds.
+Time for k =  3, n = 46, r =  5 : 286.01 seconds.
+Time for k =  3, n = 46, r =  6 : 557 seconds.
+aw(n=46,k=03) = 6.
+Time for k =  3, n = 47, r =  4 : 0.97 seconds.
+Time for k =  3, n = 47, r =  5 : 396 seconds.
+Time for k =  3, n = 47, r =  6 : 781 seconds.
+aw(n=47,k=03) = 6.
+Time for k =  3, n = 48, r =  4 : 1.54 seconds.
+Time for k =  3, n = 48, r =  5 : 572 seconds.
+Time for k =  3, n = 48, r =  6 : 1224 seconds.
+aw(n=48,k=03) = 6.
+Time for k =  3, n = 49, r =  4 : 2.10 seconds.
+Time for k =  3, n = 49, r =  5 : 393 seconds.
+Time for k =  3, n = 49, r =  6 : 1789 seconds.
+aw(n=49,k=03) = 6.
+Time for k =  3, n = 50, r =  4 : 3.47 seconds.
+Time for k =  3, n = 50, r =  5 : 322 seconds.
+Time for k =  3, n = 50, r =  6 : 2753 seconds.
+aw(n=50,k=03) = 6.
+Time for k =  3, n = 51, r =  4 : 2.22 seconds.
+Time for k =  3, n = 51, r =  5 : 423 seconds.
+Time for k =  3, n = 51, r =  6 : 3684 seconds.
+aw(n=51,k=03) = 6.
+Time for k =  3, n = 52, r =  4 : 1.79 seconds.
+Time for k =  3, n = 52, r =  5 : 665 seconds.
+Time for k =  3, n = 52, r =  6 : 5975 seconds.
+aw(n=52,k=03) = 6.
+Time for k =  3, n = 53, r =  4 : 2.41 seconds.
+Time for k =  3, n = 53, r =  5 : 984 seconds.
+Time for k =  3, n = 53, r =  6 : 7976 seconds.
+aw(n=53,k=03) = 6.
+Time for k =  3, n = 54, r =  4 : 3.88 seconds.
+Time for k =  3, n = 54, r =  5 : 1369 seconds.
+Time for k =  3, n = 54, r =  6 : 12348 seconds.
+aw(n=54,k=03) = 6.
+Time for k =  3, n = 55, r =  4 : 5.21 seconds.
+Time for k =  3, n = 55, r =  5 : 923 seconds.
+Time for k =  3, n = 55, r =  6 : 17180 seconds.
+aw(n=55,k=03) = 6.
+Time for k =  3, n = 56, r =  4 : 4.15 seconds.
+Time for k =  3, n = 56, r =  5 : 723 seconds.
+Time for k =  3, n = 56, r =  6 : 26425 seconds.
+aw(n=56,k=03) = 6.
+Time for k =  3, n = 57, r =  4 : 5.55 seconds.
+Time for k =  3, n = 57, r =  5 : 986 seconds.
+Time for k =  3, n = 57, r =  6 : 36916 seconds.
+aw(n=57,k=03) = 6.
+Time for k =  3, n = 58, r =  4 : 9.01 seconds.
+Time for k =  3, n = 58, r =  5 : 1559 seconds.
+Time for k =  3, n = 58, r =  6 : 57328 seconds.
+aw(n=58,k=03) = 6.
+Time for k =  3, n = 59, r =  4 : 12.01 seconds.
+Time for k =  3, n = 59, r =  5 : 2122 seconds.

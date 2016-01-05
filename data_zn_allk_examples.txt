@@ -1,0 +1,647 @@
+Testing k =  3, n =  4, r =  2
+0 0 0 1 
+
+
+
+Testing k =  3, n =  4, r =  3
+aw(Z_{n=04},k=03) = 3.
+--
+Testing k =  3, n =  5, r =  2
+0 0 0 0 1 
+
+
+
+Testing k =  3, n =  5, r =  3
+aw(Z_{n=05},k=03) = 3.
+--
+Testing k =  4, n =  5, r =  3
+0 0 0 1 2 
+
+
+
+Testing k =  4, n =  5, r =  4
+aw(Z_{n=05},k=04) = 4.
+--
+Testing k =  3, n =  6, r =  3
+0 0 1 0 0 2 
+
+
+
+Testing k =  3, n =  6, r =  4
+aw(Z_{n=06},k=03) = 4.
+--
+Testing k =  4, n =  6, r =  4
+0 0 1 2 2 3 
+
+
+
+Testing k =  4, n =  6, r =  5
+aw(Z_{n=06},k=04) = 5.
+--
+Testing k =  5, n =  6, r =  4
+0 0 0 1 2 3 
+
+
+
+Testing k =  5, n =  6, r =  5
+aw(Z_{n=06},k=05) = 5.
+--
+Testing k =  3, n =  7, r =  2
+0 0 0 0 0 0 1 
+
+
+
+Testing k =  3, n =  7, r =  3
+aw(Z_{n=07},k=03) = 3.
+--
+Testing k =  4, n =  7, r =  3
+0 0 0 0 0 1 2 
+
+
+
+Testing k =  4, n =  7, r =  4
+aw(Z_{n=07},k=04) = 4.
+--
+Testing k =  5, n =  7, r =  4
+0 0 0 0 1 2 3 
+
+
+
+Testing k =  5, n =  7, r =  5
+aw(Z_{n=07},k=05) = 5.
+--
+Testing k =  6, n =  7, r =  5
+0 0 0 1 2 3 4 
+
+
+
+Testing k =  6, n =  7, r =  6
+aw(Z_{n=07},k=06) = 6.
+--
+Testing k =  3, n =  8, r =  2
+0 0 0 0 0 0 0 1 
+
+
+
+Testing k =  3, n =  8, r =  3
+aw(Z_{n=08},k=03) = 3.
+--
+Testing k =  4, n =  8, r =  5
+0 0 1 2 0 0 3 4 
+
+
+
+Testing k =  4, n =  8, r =  6
+aw(Z_{n=08},k=04) = 6.
+--
+Testing k =  5, n =  8, r =  5
+0 0 0 1 2 3 2 4 
+
+
+
+Testing k =  5, n =  8, r =  6
+aw(Z_{n=08},k=05) = 6.
+--
+Testing k =  6, n =  8, r =  6
+0 1 0 2 0 3 4 5 
+
+
+
+Testing k =  6, n =  8, r =  7
+aw(Z_{n=08},k=06) = 7.
+--
+Testing k =  7, n =  8, r =  6
+0 0 0 1 2 3 4 5 
+
+
+
+Testing k =  7, n =  8, r =  7
+aw(Z_{n=08},k=07) = 7.
+--
+Testing k =  3, n =  9, r =  3
+0 0 1 0 0 1 0 0 2 
+
+
+
+Testing k =  3, n =  9, r =  4
+aw(Z_{n=09},k=03) = 4.
+--
+Testing k =  4, n =  9, r =  4
+0 0 0 0 0 1 2 2 3 
+
+
+
+Testing k =  4, n =  9, r =  5
+aw(Z_{n=09},k=04) = 5.
+--
+Testing k =  5, n =  9, r =  5
+0 0 0 0 1 2 2 3 4 
+
+
+
+Testing k =  5, n =  9, r =  6
+aw(Z_{n=09},k=05) = 6.
+--
+Testing k =  6, n =  9, r =  7
+0 1 2 0 3 4 0 5 6 
+
+
+
+Testing k =  6, n =  9, r =  8
+aw(Z_{n=09},k=06) = 8.
+--
+Testing k =  7, n =  9, r =  7
+0 1 2 0 3 4 0 5 6 
+
+
+
+Testing k =  7, n =  9, r =  8
+aw(Z_{n=09},k=07) = 8.
+--
+Testing k =  8, n =  9, r =  7
+0 0 0 1 2 3 4 5 6 
+
+
+
+Testing k =  8, n =  9, r =  8
+aw(Z_{n=09},k=08) = 8.
+--
+Testing k =  3, n = 10, r =  3
+0 0 0 0 1 0 0 0 0 2 
+
+
+
+Testing k =  3, n = 10, r =  4
+aw(Z_{n=10},k=03) = 4.
+--
+Testing k =  4, n = 10, r =  5
+0 0 0 1 2 0 0 0 3 4 
+
+
+
+Testing k =  4, n = 10, r =  6
+aw(Z_{n=10},k=04) = 6.
+--
+Testing k =  5, n = 10, r =  7
+0 0 1 2 3 0 0 4 5 6 
+
+
+
+Testing k =  5, n = 10, r =  8
+aw(Z_{n=10},k=05) = 8.
+--
+Testing k =  6, n = 10, r =  7
+0 0 1 2 3 0 0 4 5 6 
+
+
+
+Testing k =  6, n = 10, r =  8
+aw(Z_{n=10},k=06) = 8.
+--
+Testing k =  7, n = 10, r =  7
+0 0 0 1 2 2 3 4 5 6 
+
+
+
+Testing k =  7, n = 10, r =  8
+aw(Z_{n=10},k=07) = 8.
+--
+Testing k =  8, n = 10, r =  8
+0 0 1 2 3 4 4 5 6 7 
+
+
+
+Testing k =  8, n = 10, r =  9
+aw(Z_{n=10},k=08) = 9.
+--
+Testing k =  9, n = 10, r =  8
+0 0 0 1 2 3 4 5 6 7 
+
+
+
+Testing k =  9, n = 10, r =  9
+aw(Z_{n=10},k=09) = 9.
+--
+Testing k =  3, n = 11, r =  2
+0 0 0 0 0 0 0 0 0 0 1 
+
+
+
+Testing k =  3, n = 11, r =  3
+aw(Z_{n=11},k=03) = 3.
+--
+Testing k =  4, n = 11, r =  4
+0 0 0 0 0 0 0 1 2 2 3 
+
+
+
+Testing k =  4, n = 11, r =  5
+aw(Z_{n=11},k=04) = 5.
+--
+Testing k =  5, n = 11, r =  5
+0 0 0 0 0 0 1 2 2 3 4 
+
+
+
+Testing k =  5, n = 11, r =  6
+aw(Z_{n=11},k=05) = 6.
+--
+Testing k =  6, n = 11, r =  6
+0 0 0 0 0 1 2 2 3 4 5 
+
+
+
+Testing k =  6, n = 11, r =  7
+aw(Z_{n=11},k=06) = 7.
+--
+Testing k =  7, n = 11, r =  7
+0 0 0 0 1 2 2 3 4 5 6 
+
+
+
+Testing k =  7, n = 11, r =  8
+aw(Z_{n=11},k=07) = 8.
+--
+Testing k =  8, n = 11, r =  8
+0 0 0 1 2 3 4 5 3 6 7 
+
+
+
+Testing k =  8, n = 11, r =  9
+aw(Z_{n=11},k=08) = 9.
+--
+Testing k =  9, n = 11, r =  8
+0 0 0 0 1 2 3 4 5 6 7 
+
+
+
+Testing k =  9, n = 11, r =  9
+aw(Z_{n=11},k=09) = 9.
+--
+Testing k = 10, n = 11, r =  9
+0 0 0 1 2 3 4 5 6 7 8 
+
+
+
+Testing k = 10, n = 11, r = 10
+aw(Z_{n=11},k=10) = 10.
+--
+Testing k =  3, n = 12, r =  3
+0 0 1 0 0 1 0 0 1 0 0 2 
+
+
+
+Testing k =  3, n = 12, r =  4
+aw(Z_{n=12},k=03) = 4.
+--
+Testing k =  4, n = 12, r =  7
+0 0 1 2 0 0 3 4 0 0 5 6 
+
+
+
+Testing k =  4, n = 12, r =  8
+aw(Z_{n=12},k=04) = 8.
+--
+Testing k =  5, n = 12, r =  8
+0 1 0 2 3 2 4 5 4 6 7 6 
+
+
+
+Testing k =  5, n = 12, r =  9
+aw(Z_{n=12},k=05) = 9.
+--
+Testing k =  6, n = 12, r =  9
+0 0 1 2 3 4 0 0 5 6 7 8 
+
+
+
+Testing k =  6, n = 12, r = 10
+aw(Z_{n=12},k=06) = 10.
+--
+Testing k =  7, n = 12, r =  9
+0 0 0 1 2 3 4 5 4 6 7 8 
+
+
+
+Testing k =  7, n = 12, r = 10
+aw(Z_{n=12},k=07) = 10.
+--
+Testing k =  8, n = 12, r = 10
+0 1 0 2 3 4 5 6 5 7 8 9 
+
+
+
+Testing k =  8, n = 12, r = 11
+aw(Z_{n=12},k=08) = 11.
+--
+Testing k =  9, n = 12, r = 10
+0 0 1 2 3 4 5 6 7 3 8 9 
+
+
+
+Testing k =  9, n = 12, r = 11
+aw(Z_{n=12},k=09) = 11.
+--
+Testing k = 10, n = 12, r = 10
+0 0 1 2 2 3 4 5 6 7 8 9 
+
+
+
+Testing k = 10, n = 12, r = 11
+aw(Z_{n=12},k=10) = 11.
+--
+Testing k = 11, n = 12, r = 10
+0 0 0 1 2 3 4 5 6 7 8 9 
+
+
+
+Testing k = 11, n = 12, r = 11
+aw(Z_{n=12},k=11) = 11.
+--
+Testing k =  3, n = 13, r =  2
+0 0 0 0 0 0 0 0 0 0 0 0 1 
+
+
+
+Testing k =  3, n = 13, r =  3
+aw(Z_{n=13},k=03) = 3.
+--
+Testing k =  4, n = 13, r =  4
+0 0 0 0 0 0 0 0 0 1 2 2 3 
+
+
+
+Testing k =  4, n = 13, r =  5
+aw(Z_{n=13},k=04) = 5.
+--
+Testing k =  5, n = 13, r =  6
+0 0 0 0 0 0 1 2 0 3 0 4 5 
+
+
+
+Testing k =  5, n = 13, r =  7
+aw(Z_{n=13},k=05) = 7.
+--
+Testing k =  6, n = 13, r =  7
+0 0 0 0 0 0 1 2 3 3 4 5 6 
+
+
+
+Testing k =  6, n = 13, r =  8
+aw(Z_{n=13},k=06) = 8.
+--
+Testing k =  7, n = 13, r =  8
+0 0 0 0 0 1 2 3 4 4 5 6 7 
+
+
+
+Testing k =  7, n = 13, r =  9
+aw(Z_{n=13},k=07) = 9.
+--
+Testing k =  8, n = 13, r =  9
+0 0 0 0 1 2 3 4 5 6 3 7 8 
+
+
+
+Testing k =  8, n = 13, r = 10
+aw(Z_{n=13},k=08) = 10.
+--
+Testing k =  9, n = 13, r =  9
+0 0 0 0 1 2 2 3 4 5 6 7 8 
+
+
+
+Testing k =  9, n = 13, r = 10
+aw(Z_{n=13},k=09) = 10.
+--
+Testing k = 10, n = 13, r = 10
+0 0 0 1 2 3 3 4 5 6 7 8 9 
+
+
+
+Testing k = 10, n = 13, r = 11
+aw(Z_{n=13},k=10) = 11.
+--
+Testing k = 11, n = 13, r = 10
+0 0 0 0 1 2 3 4 5 6 7 8 9 
+
+
+
+Testing k = 11, n = 13, r = 11
+aw(Z_{n=13},k=11) = 11.
+--
+Testing k = 12, n = 13, r = 11
+0 0 0 1 2 3 4 5 6 7 8 9 10 
+
+
+
+Testing k = 12, n = 13, r = 12
+aw(Z_{n=13},k=12) = 12.
+--
+Testing k =  3, n = 14, r =  3
+0 0 0 0 0 0 1 0 0 0 0 0 0 2 
+
+
+
+Testing k =  3, n = 14, r =  4
+aw(Z_{n=14},k=03) = 4.
+--
+Testing k =  4, n = 14, r =  5
+0 0 0 0 0 0 1 0 0 2 3 0 0 4 
+
+
+
+Testing k =  4, n = 14, r =  6
+aw(Z_{n=14},k=04) = 6.
+--
+Testing k =  5, n = 14, r =  7
+0 0 0 0 1 2 3 0 0 0 0 4 5 6 
+
+
+
+Testing k =  5, n = 14, r =  8
+aw(Z_{n=14},k=05) = 8.
+--
+Testing k =  6, n = 14, r =  9
+0 0 0 1 2 3 4 0 0 0 5 6 7 8 
+
+
+
+Testing k =  6, n = 14, r = 10
+aw(Z_{n=14},k=06) = 10.
+--
+Testing k =  7, n = 14, r = 11
+0 0 1 2 3 4 5 0 0 6 7 8 9 10 
+
+
+
+Testing k =  7, n = 14, r = 12
+aw(Z_{n=14},k=07) = 12.
+--
+Testing k =  8, n = 14, r = 11
+0 0 1 2 3 4 5 0 0 6 7 8 9 10 
+
+
+
+Testing k =  8, n = 14, r = 12
+aw(Z_{n=14},k=08) = 12.
+--
+Testing k =  9, n = 14, r = 11
+0 0 1 2 3 4 5 0 0 6 7 8 9 10 
+
+
+
+Testing k =  9, n = 14, r = 12
+aw(Z_{n=14},k=09) = 12.
+--
+Testing k = 10, n = 14, r = 11
+0 0 0 1 2 3 4 5 5 6 7 8 9 10 
+
+
+
+Testing k = 10, n = 14, r = 12
+aw(Z_{n=14},k=10) = 12.
+--
+Testing k = 11, n = 14, r = 11
+0 0 0 1 2 2 3 4 5 6 7 8 9 10 
+
+
+
+Testing k = 11, n = 14, r = 12
+aw(Z_{n=14},k=11) = 12.
+--
+Testing k = 12, n = 14, r = 12
+0 0 1 2 3 4 5 6 6 7 8 9 10 11 
+
+
+
+Testing k = 12, n = 14, r = 13
+aw(Z_{n=14},k=12) = 13.
+--
+Testing k = 13, n = 14, r = 12
+0 0 0 1 2 3 4 5 6 7 8 9 10 11 
+
+
+
+Testing k = 13, n = 14, r = 13
+aw(Z_{n=14},k=13) = 13.
+--
+Testing k =  3, n = 15, r =  3
+0 0 0 0 1 0 0 0 0 1 0 0 0 0 2 
+
+
+
+Testing k =  3, n = 15, r =  4
+aw(Z_{n=15},k=03) = 4.
+--
+Testing k =  4, n = 15, r =  7
+0 0 0 1 2 0 0 0 3 4 0 0 0 5 6 
+
+
+
+Testing k =  4, n = 15, r =  8
+aw(Z_{n=15},k=04) = 8.
+--
+Testing k =  5, n = 15, r = 10
+0 0 1 2 3 0 0 4 5 6 0 0 7 8 9 
+
+
+
+Testing k =  5, n = 15, r = 11
+aw(Z_{n=15},k=05) = 11.
+--
+Testing k =  6, n = 15, r = 11
+0 1 2 0 3 4 0 5 6 0 7 8 0 9 10 
+
+
+
+Testing k =  6, n = 15, r = 12
+aw(Z_{n=15},k=06) = 12.
+--
+Testing k =  7, n = 15, r = 11
+0 1 2 0 3 4 0 5 6 0 7 8 0 9 10 
+
+
+
+Testing k =  7, n = 15, r = 12
+aw(Z_{n=15},k=07) = 12.
+--
+Testing k =  8, n = 15, r = 11
+0 1 2 0 3 4 0 5 6 0 7 8 0 9 10 
+
+
+
+Testing k =  8, n = 15, r = 12
+aw(Z_{n=15},k=08) = 12.
+--
+Testing k =  9, n = 15, r = 12
+0 1 2 0 3 4 0 5 6 0 7 8 9 10 11 
+
+
+
+Testing k =  9, n = 15, r = 13
+aw(Z_{n=15},k=09) = 13.
+--
+Testing k = 10, n = 15, r = 13
+0 1 2 3 4 0 5 6 7 8 0 9 10 11 12 
+
+
+
+Testing k = 10, n = 15, r = 14
+aw(Z_{n=15},k=10) = 14.
+--
+Testing k = 11, n = 15, r = 13
+0 1 2 3 4 0 5 6 7 8 0 9 10 11 12 
+
+
+
+Testing k = 11, n = 15, r = 14
+aw(Z_{n=15},k=11) = 14.
+--
+Testing k = 12, n = 15, r = 13
+0 0 1 2 3 4 5 6 7 8 5 9 10 11 12 
+
+
+
+Testing k = 12, n = 15, r = 14
+aw(Z_{n=15},k=12) = 14.
+--
+Testing k = 13, n = 15, r = 13
+0 0 1 2 3 4 5 6 7 8 5 9 10 11 12 
+
+
+
+Testing k = 13, n = 15, r = 14
+aw(Z_{n=15},k=13) = 14.
+--
+Testing k = 14, n = 15, r = 13
+0 0 0 1 2 3 4 5 6 7 8 9 10 11 12 
+
+
+
+Testing k = 14, n = 15, r = 14
+aw(Z_{n=15},k=14) = 14.
+--
+Testing k =  3, n = 16, r =  2
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+
+
+
+Testing k =  3, n = 16, r =  3
+aw(Z_{n=16},k=03) = 3.
+--
+Testing k =  4, n = 16, r =  7
+0 0 1 2 0 0 1 2 0 0 3 4 0 0 5 6 
+
+
+
+Testing k =  4, n = 16, r =  8
+aw(Z_{n=16},k=04) = 8.
+--
+Testing k =  5, n = 16, r =  9
+0 0 1 0 0 2 3 4 0 0 5 0 0 6 7 8 
+
+
+
+Testing k =  5, n = 16, r = 10
+aw(Z_{n=16},k=05) = 10.

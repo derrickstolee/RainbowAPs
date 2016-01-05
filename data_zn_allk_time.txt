@@ -1,0 +1,675 @@
+Time for k =  3, n =  4, r =  2 : 0.00 seconds.
+Time for k =  3, n =  4, r =  3 : 0.00 seconds.
+aw(Z_{n=04},k=03) = 3.
+Time for k =  3, n =  5, r =  2 : 0.00 seconds.
+Time for k =  3, n =  5, r =  3 : 0.00 seconds.
+aw(Z_{n=05},k=03) = 3.
+Time for k =  4, n =  5, r =  2 : 0.00 seconds.
+Time for k =  4, n =  5, r =  3 : 0.00 seconds.
+Time for k =  4, n =  5, r =  4 : 0.00 seconds.
+aw(Z_{n=05},k=04) = 4.
+Time for k =  3, n =  6, r =  2 : 0.00 seconds.
+Time for k =  3, n =  6, r =  3 : 0.00 seconds.
+Time for k =  3, n =  6, r =  4 : 0.00 seconds.
+aw(Z_{n=06},k=03) = 4.
+Time for k =  4, n =  6, r =  2 : 0.00 seconds.
+Time for k =  4, n =  6, r =  3 : 0.00 seconds.
+Time for k =  4, n =  6, r =  4 : 0.00 seconds.
+Time for k =  4, n =  6, r =  5 : 0.00 seconds.
+aw(Z_{n=06},k=04) = 5.
+Time for k =  5, n =  6, r =  2 : 0.00 seconds.
+Time for k =  5, n =  6, r =  3 : 0.00 seconds.
+Time for k =  5, n =  6, r =  4 : 0.00 seconds.
+Time for k =  5, n =  6, r =  5 : 0.00 seconds.
+aw(Z_{n=06},k=05) = 5.
+Time for k =  3, n =  7, r =  2 : 0.00 seconds.
+Time for k =  3, n =  7, r =  3 : 0.00 seconds.
+aw(Z_{n=07},k=03) = 3.
+Time for k =  4, n =  7, r =  2 : 0.00 seconds.
+Time for k =  4, n =  7, r =  3 : 0.00 seconds.
+Time for k =  4, n =  7, r =  4 : 0.00 seconds.
+aw(Z_{n=07},k=04) = 4.
+Time for k =  5, n =  7, r =  2 : 0.00 seconds.
+Time for k =  5, n =  7, r =  3 : 0.00 seconds.
+Time for k =  5, n =  7, r =  4 : 0.00 seconds.
+Time for k =  5, n =  7, r =  5 : 0.00 seconds.
+aw(Z_{n=07},k=05) = 5.
+Time for k =  6, n =  7, r =  2 : 0.00 seconds.
+Time for k =  6, n =  7, r =  3 : 0.00 seconds.
+Time for k =  6, n =  7, r =  4 : 0.00 seconds.
+Time for k =  6, n =  7, r =  5 : 0.00 seconds.
+Time for k =  6, n =  7, r =  6 : 0.00 seconds.
+aw(Z_{n=07},k=06) = 6.
+Time for k =  3, n =  8, r =  2 : 0.00 seconds.
+Time for k =  3, n =  8, r =  3 : 0.00 seconds.
+aw(Z_{n=08},k=03) = 3.
+Time for k =  4, n =  8, r =  2 : 0.00 seconds.
+Time for k =  4, n =  8, r =  3 : 0.00 seconds.
+Time for k =  4, n =  8, r =  4 : 0.00 seconds.
+Time for k =  4, n =  8, r =  5 : 0.00 seconds.
+Time for k =  4, n =  8, r =  6 : 0.00 seconds.
+aw(Z_{n=08},k=04) = 6.
+Time for k =  5, n =  8, r =  2 : 0.00 seconds.
+Time for k =  5, n =  8, r =  3 : 0.00 seconds.
+Time for k =  5, n =  8, r =  4 : 0.00 seconds.
+Time for k =  5, n =  8, r =  5 : 0.00 seconds.
+Time for k =  5, n =  8, r =  6 : 0.01 seconds.
+aw(Z_{n=08},k=05) = 6.
+Time for k =  6, n =  8, r =  2 : 0.00 seconds.
+Time for k =  6, n =  8, r =  3 : 0.00 seconds.
+Time for k =  6, n =  8, r =  4 : 0.00 seconds.
+Time for k =  6, n =  8, r =  5 : 0.00 seconds.
+Time for k =  6, n =  8, r =  6 : 0.01 seconds.
+Time for k =  6, n =  8, r =  7 : 0.01 seconds.
+aw(Z_{n=08},k=06) = 7.
+Time for k =  7, n =  8, r =  2 : 0.00 seconds.
+Time for k =  7, n =  8, r =  3 : 0.00 seconds.
+Time for k =  7, n =  8, r =  4 : 0.00 seconds.
+Time for k =  7, n =  8, r =  5 : 0.00 seconds.
+Time for k =  7, n =  8, r =  6 : 0.00 seconds.
+Time for k =  7, n =  8, r =  7 : 0.02 seconds.
+aw(Z_{n=08},k=07) = 7.
+Time for k =  3, n =  9, r =  2 : 0.00 seconds.
+Time for k =  3, n =  9, r =  3 : 0.00 seconds.
+Time for k =  3, n =  9, r =  4 : 0.00 seconds.
+aw(Z_{n=09},k=03) = 4.
+Time for k =  4, n =  9, r =  2 : 0.00 seconds.
+Time for k =  4, n =  9, r =  3 : 0.00 seconds.
+Time for k =  4, n =  9, r =  4 : 0.00 seconds.
+Time for k =  4, n =  9, r =  5 : 0.00 seconds.
+aw(Z_{n=09},k=04) = 5.
+Time for k =  5, n =  9, r =  2 : 0.00 seconds.
+Time for k =  5, n =  9, r =  3 : 0.00 seconds.
+Time for k =  5, n =  9, r =  4 : 0.00 seconds.
+Time for k =  5, n =  9, r =  5 : 0.00 seconds.
+Time for k =  5, n =  9, r =  6 : 0.02 seconds.
+aw(Z_{n=09},k=05) = 6.
+Time for k =  6, n =  9, r =  2 : 0.00 seconds.
+Time for k =  6, n =  9, r =  3 : 0.00 seconds.
+Time for k =  6, n =  9, r =  4 : 0.00 seconds.
+Time for k =  6, n =  9, r =  5 : 0.00 seconds.
+Time for k =  6, n =  9, r =  6 : 0.01 seconds.
+Time for k =  6, n =  9, r =  7 : 0.05 seconds.
+Time for k =  6, n =  9, r =  8 : 0.07 seconds.
+aw(Z_{n=09},k=06) = 8.
+Time for k =  7, n =  9, r =  2 : 0.00 seconds.
+Time for k =  7, n =  9, r =  3 : 0.00 seconds.
+Time for k =  7, n =  9, r =  4 : 0.00 seconds.
+Time for k =  7, n =  9, r =  5 : 0.00 seconds.
+Time for k =  7, n =  9, r =  6 : 0.00 seconds.
+Time for k =  7, n =  9, r =  7 : 0.08 seconds.
+Time for k =  7, n =  9, r =  8 : 0.12 seconds.
+aw(Z_{n=09},k=07) = 8.
+Time for k =  8, n =  9, r =  2 : 0.00 seconds.
+Time for k =  8, n =  9, r =  3 : 0.00 seconds.
+Time for k =  8, n =  9, r =  4 : 0.00 seconds.
+Time for k =  8, n =  9, r =  5 : 0.00 seconds.
+Time for k =  8, n =  9, r =  6 : 0.00 seconds.
+Time for k =  8, n =  9, r =  7 : 0.01 seconds.
+Time for k =  8, n =  9, r =  8 : 0.17 seconds.
+aw(Z_{n=09},k=08) = 8.
+Time for k =  3, n = 10, r =  2 : 0.00 seconds.
+Time for k =  3, n = 10, r =  3 : 0.00 seconds.
+Time for k =  3, n = 10, r =  4 : 0.00 seconds.
+aw(Z_{n=10},k=03) = 4.
+Time for k =  4, n = 10, r =  2 : 0.00 seconds.
+Time for k =  4, n = 10, r =  3 : 0.00 seconds.
+Time for k =  4, n = 10, r =  4 : 0.00 seconds.
+Time for k =  4, n = 10, r =  5 : 0.00 seconds.
+Time for k =  4, n = 10, r =  6 : 0.01 seconds.
+aw(Z_{n=10},k=04) = 6.
+Time for k =  5, n = 10, r =  2 : 0.00 seconds.
+Time for k =  5, n = 10, r =  3 : 0.00 seconds.
+Time for k =  5, n = 10, r =  4 : 0.00 seconds.
+Time for k =  5, n = 10, r =  5 : 0.00 seconds.
+Time for k =  5, n = 10, r =  6 : 0.01 seconds.
+Time for k =  5, n = 10, r =  7 : 0.03 seconds.
+Time for k =  5, n = 10, r =  8 : 0.12 seconds.
+aw(Z_{n=10},k=05) = 8.
+Time for k =  6, n = 10, r =  2 : 0.00 seconds.
+Time for k =  6, n = 10, r =  3 : 0.00 seconds.
+Time for k =  6, n = 10, r =  4 : 0.00 seconds.
+Time for k =  6, n = 10, r =  5 : 0.00 seconds.
+Time for k =  6, n = 10, r =  6 : 0.00 seconds.
+Time for k =  6, n = 10, r =  7 : 0.07 seconds.
+Time for k =  6, n = 10, r =  8 : 0.37 seconds.
+aw(Z_{n=10},k=06) = 8.
+Time for k =  7, n = 10, r =  2 : 0.00 seconds.
+Time for k =  7, n = 10, r =  3 : 0.00 seconds.
+Time for k =  7, n = 10, r =  4 : 0.00 seconds.
+Time for k =  7, n = 10, r =  5 : 0.00 seconds.
+Time for k =  7, n = 10, r =  6 : 0.00 seconds.
+Time for k =  7, n = 10, r =  7 : 0.02 seconds.
+Time for k =  7, n = 10, r =  8 : 0.67 seconds.
+aw(Z_{n=10},k=07) = 8.
+Time for k =  8, n = 10, r =  2 : 0.00 seconds.
+Time for k =  8, n = 10, r =  3 : 0.00 seconds.
+Time for k =  8, n = 10, r =  4 : 0.00 seconds.
+Time for k =  8, n = 10, r =  5 : 0.00 seconds.
+Time for k =  8, n = 10, r =  6 : 0.00 seconds.
+Time for k =  8, n = 10, r =  7 : 0.01 seconds.
+Time for k =  8, n = 10, r =  8 : 0.18 seconds.
+Time for k =  8, n = 10, r =  9 : 0.97 seconds.
+aw(Z_{n=10},k=08) = 9.
+Time for k =  9, n = 10, r =  2 : 0.00 seconds.
+Time for k =  9, n = 10, r =  3 : 0.00 seconds.
+Time for k =  9, n = 10, r =  4 : 0.00 seconds.
+Time for k =  9, n = 10, r =  5 : 0.00 seconds.
+Time for k =  9, n = 10, r =  6 : 0.00 seconds.
+Time for k =  9, n = 10, r =  7 : 0.01 seconds.
+Time for k =  9, n = 10, r =  8 : 0.04 seconds.
+Time for k =  9, n = 10, r =  9 : 1.20 seconds.
+aw(Z_{n=10},k=09) = 9.
+Time for k =  3, n = 11, r =  2 : 0.00 seconds.
+Time for k =  3, n = 11, r =  3 : 0.00 seconds.
+aw(Z_{n=11},k=03) = 3.
+Time for k =  4, n = 11, r =  2 : 0.00 seconds.
+Time for k =  4, n = 11, r =  3 : 0.00 seconds.
+Time for k =  4, n = 11, r =  4 : 0.00 seconds.
+Time for k =  4, n = 11, r =  5 : 0.01 seconds.
+aw(Z_{n=11},k=04) = 5.
+Time for k =  5, n = 11, r =  2 : 0.00 seconds.
+Time for k =  5, n = 11, r =  3 : 0.00 seconds.
+Time for k =  5, n = 11, r =  4 : 0.00 seconds.
+Time for k =  5, n = 11, r =  5 : 0.00 seconds.
+Time for k =  5, n = 11, r =  6 : 0.27 seconds.
+aw(Z_{n=11},k=05) = 6.
+Time for k =  6, n = 11, r =  2 : 0.00 seconds.
+Time for k =  6, n = 11, r =  3 : 0.00 seconds.
+Time for k =  6, n = 11, r =  4 : 0.00 seconds.
+Time for k =  6, n = 11, r =  5 : 0.00 seconds.
+Time for k =  6, n = 11, r =  6 : 0.00 seconds.
+Time for k =  6, n = 11, r =  7 : 1.59 seconds.
+aw(Z_{n=11},k=06) = 7.
+Time for k =  7, n = 11, r =  2 : 0.00 seconds.
+Time for k =  7, n = 11, r =  3 : 0.00 seconds.
+Time for k =  7, n = 11, r =  4 : 0.00 seconds.
+Time for k =  7, n = 11, r =  5 : 0.00 seconds.
+Time for k =  7, n = 11, r =  6 : 0.00 seconds.
+Time for k =  7, n = 11, r =  7 : 0.03 seconds.
+Time for k =  7, n = 11, r =  8 : 4.12 seconds.
+aw(Z_{n=11},k=07) = 8.
+Time for k =  8, n = 11, r =  2 : 0.00 seconds.
+Time for k =  8, n = 11, r =  3 : 0.00 seconds.
+Time for k =  8, n = 11, r =  4 : 0.00 seconds.
+Time for k =  8, n = 11, r =  5 : 0.00 seconds.
+Time for k =  8, n = 11, r =  6 : 0.00 seconds.
+Time for k =  8, n = 11, r =  7 : 0.01 seconds.
+Time for k =  8, n = 11, r =  8 : 0.23 seconds.
+Time for k =  8, n = 11, r =  9 : 7.00 seconds.
+aw(Z_{n=11},k=08) = 9.
+Time for k =  9, n = 11, r =  2 : 0.00 seconds.
+Time for k =  9, n = 11, r =  3 : 0.00 seconds.
+Time for k =  9, n = 11, r =  4 : 0.00 seconds.
+Time for k =  9, n = 11, r =  5 : 0.00 seconds.
+Time for k =  9, n = 11, r =  6 : 0.00 seconds.
+Time for k =  9, n = 11, r =  7 : 0.01 seconds.
+Time for k =  9, n = 11, r =  8 : 0.07 seconds.
+Time for k =  9, n = 11, r =  9 : 9.83 seconds.
+aw(Z_{n=11},k=09) = 9.
+Time for k = 10, n = 11, r =  2 : 0.00 seconds.
+Time for k = 10, n = 11, r =  3 : 0.00 seconds.
+Time for k = 10, n = 11, r =  4 : 0.00 seconds.
+Time for k = 10, n = 11, r =  5 : 0.00 seconds.
+Time for k = 10, n = 11, r =  6 : 0.00 seconds.
+Time for k = 10, n = 11, r =  7 : 0.02 seconds.
+Time for k = 10, n = 11, r =  8 : 0.09 seconds.
+Time for k = 10, n = 11, r =  9 : 0.39 seconds.
+Time for k = 10, n = 11, r = 10 : 12.45 seconds.
+aw(Z_{n=11},k=10) = 10.
+Time for k =  3, n = 12, r =  2 : 0.00 seconds.
+Time for k =  3, n = 12, r =  3 : 0.00 seconds.
+Time for k =  3, n = 12, r =  4 : 0.00 seconds.
+aw(Z_{n=12},k=03) = 4.
+Time for k =  4, n = 12, r =  2 : 0.00 seconds.
+Time for k =  4, n = 12, r =  3 : 0.00 seconds.
+Time for k =  4, n = 12, r =  4 : 0.00 seconds.
+Time for k =  4, n = 12, r =  5 : 0.00 seconds.
+Time for k =  4, n = 12, r =  6 : 0.01 seconds.
+Time for k =  4, n = 12, r =  7 : 0.02 seconds.
+Time for k =  4, n = 12, r =  8 : 0.10 seconds.
+aw(Z_{n=12},k=04) = 8.
+Time for k =  5, n = 12, r =  2 : 0.00 seconds.
+Time for k =  5, n = 12, r =  3 : 0.00 seconds.
+Time for k =  5, n = 12, r =  4 : 0.00 seconds.
+Time for k =  5, n = 12, r =  5 : 0.00 seconds.
+Time for k =  5, n = 12, r =  6 : 0.00 seconds.
+Time for k =  5, n = 12, r =  7 : 0.15 seconds.
+Time for k =  5, n = 12, r =  8 : 1.14 seconds.
+Time for k =  5, n = 12, r =  9 : 2.59 seconds.
+aw(Z_{n=12},k=05) = 9.
+Time for k =  6, n = 12, r =  2 : 0.00 seconds.
+Time for k =  6, n = 12, r =  3 : 0.00 seconds.
+Time for k =  6, n = 12, r =  4 : 0.00 seconds.
+Time for k =  6, n = 12, r =  5 : 0.00 seconds.
+Time for k =  6, n = 12, r =  6 : 0.01 seconds.
+Time for k =  6, n = 12, r =  7 : 0.03 seconds.
+Time for k =  6, n = 12, r =  8 : 0.54 seconds.
+Time for k =  6, n = 12, r =  9 : 2.76 seconds.
+Time for k =  6, n = 12, r = 10 : 13.23 seconds.
+aw(Z_{n=12},k=06) = 10.
+Time for k =  7, n = 12, r =  2 : 0.00 seconds.
+Time for k =  7, n = 12, r =  3 : 0.00 seconds.
+Time for k =  7, n = 12, r =  4 : 0.00 seconds.
+Time for k =  7, n = 12, r =  5 : 0.00 seconds.
+Time for k =  7, n = 12, r =  6 : 0.00 seconds.
+Time for k =  7, n = 12, r =  7 : 0.03 seconds.
+Time for k =  7, n = 12, r =  8 : 0.20 seconds.
+Time for k =  7, n = 12, r =  9 : 1.01 seconds.
+Time for k =  7, n = 12, r = 10 : 28.68 seconds.
+aw(Z_{n=12},k=07) = 10.
+Time for k =  8, n = 12, r =  2 : 0.00 seconds.
+Time for k =  8, n = 12, r =  3 : 0.00 seconds.
+Time for k =  8, n = 12, r =  4 : 0.00 seconds.
+Time for k =  8, n = 12, r =  5 : 0.00 seconds.
+Time for k =  8, n = 12, r =  6 : 0.00 seconds.
+Time for k =  8, n = 12, r =  7 : 0.01 seconds.
+Time for k =  8, n = 12, r =  8 : 0.20 seconds.
+Time for k =  8, n = 12, r =  9 : 1.32 seconds.
+Time for k =  8, n = 12, r = 10 : 13.78 seconds.
+Time for k =  8, n = 12, r = 11 : 44.17 seconds.
+aw(Z_{n=12},k=08) = 11.
+Time for k =  9, n = 12, r =  2 : 0.00 seconds.
+Time for k =  9, n = 12, r =  3 : 0.00 seconds.
+Time for k =  9, n = 12, r =  4 : 0.00 seconds.
+Time for k =  9, n = 12, r =  5 : 0.00 seconds.
+Time for k =  9, n = 12, r =  6 : 0.00 seconds.
+Time for k =  9, n = 12, r =  7 : 0.02 seconds.
+Time for k =  9, n = 12, r =  8 : 0.06 seconds.
+Time for k =  9, n = 12, r =  9 : 1.14 seconds.
+Time for k =  9, n = 12, r = 10 : 9.30 seconds.
+Time for k =  9, n = 12, r = 11 : 57.74 seconds.
+aw(Z_{n=12},k=09) = 11.
+Time for k = 10, n = 12, r =  2 : 0.00 seconds.
+Time for k = 10, n = 12, r =  3 : 0.00 seconds.
+Time for k = 10, n = 12, r =  4 : 0.00 seconds.
+Time for k = 10, n = 12, r =  5 : 0.00 seconds.
+Time for k = 10, n = 12, r =  6 : 0.00 seconds.
+Time for k = 10, n = 12, r =  7 : 0.02 seconds.
+Time for k = 10, n = 12, r =  8 : 0.07 seconds.
+Time for k = 10, n = 12, r =  9 : 0.36 seconds.
+Time for k = 10, n = 12, r = 10 : 8.26 seconds.
+Time for k = 10, n = 12, r = 11 : 69.95 seconds.
+aw(Z_{n=12},k=10) = 11.
+Time for k = 11, n = 12, r =  2 : 0.00 seconds.
+Time for k = 11, n = 12, r =  3 : 0.00 seconds.
+Time for k = 11, n = 12, r =  4 : 0.00 seconds.
+Time for k = 11, n = 12, r =  5 : 0.00 seconds.
+Time for k = 11, n = 12, r =  6 : 0.00 seconds.
+Time for k = 11, n = 12, r =  7 : 0.02 seconds.
+Time for k = 11, n = 12, r =  8 : 0.08 seconds.
+Time for k = 11, n = 12, r =  9 : 0.44 seconds.
+Time for k = 11, n = 12, r = 10 : 2.37 seconds.
+Time for k = 11, n = 12, r = 11 : 83.37 seconds.
+aw(Z_{n=12},k=11) = 11.
+Time for k =  3, n = 13, r =  2 : 0.00 seconds.
+Time for k =  3, n = 13, r =  3 : 0.00 seconds.
+aw(Z_{n=13},k=03) = 3.
+Time for k =  4, n = 13, r =  2 : 0.00 seconds.
+Time for k =  4, n = 13, r =  3 : 0.00 seconds.
+Time for k =  4, n = 13, r =  4 : 0.00 seconds.
+Time for k =  4, n = 13, r =  5 : 0.06 seconds.
+aw(Z_{n=13},k=04) = 5.
+Time for k =  5, n = 13, r =  2 : 0.00 seconds.
+Time for k =  5, n = 13, r =  3 : 0.00 seconds.
+Time for k =  5, n = 13, r =  4 : 0.00 seconds.
+Time for k =  5, n = 13, r =  5 : 0.00 seconds.
+Time for k =  5, n = 13, r =  6 : 0.01 seconds.
+Time for k =  5, n = 13, r =  7 : 4.26 seconds.
+aw(Z_{n=13},k=05) = 7.
+Time for k =  6, n = 13, r =  2 : 0.00 seconds.
+Time for k =  6, n = 13, r =  3 : 0.00 seconds.
+Time for k =  6, n = 13, r =  4 : 0.00 seconds.
+Time for k =  6, n = 13, r =  5 : 0.00 seconds.
+Time for k =  6, n = 13, r =  6 : 0.01 seconds.
+Time for k =  6, n = 13, r =  7 : 0.03 seconds.
+Time for k =  6, n = 13, r =  8 : 44.09 seconds.
+aw(Z_{n=13},k=06) = 8.
+Time for k =  7, n = 13, r =  2 : 0.00 seconds.
+Time for k =  7, n = 13, r =  3 : 0.00 seconds.
+Time for k =  7, n = 13, r =  4 : 0.00 seconds.
+Time for k =  7, n = 13, r =  5 : 0.00 seconds.
+Time for k =  7, n = 13, r =  6 : 0.00 seconds.
+Time for k =  7, n = 13, r =  7 : 0.04 seconds.
+Time for k =  7, n = 13, r =  8 : 0.25 seconds.
+Time for k =  7, n = 13, r =  9 : 158.14 seconds.
+aw(Z_{n=13},k=07) = 9.
+Time for k =  8, n = 13, r =  2 : 0.00 seconds.
+Time for k =  8, n = 13, r =  3 : 0.00 seconds.
+Time for k =  8, n = 13, r =  4 : 0.00 seconds.
+Time for k =  8, n = 13, r =  5 : 0.00 seconds.
+Time for k =  8, n = 13, r =  6 : 0.00 seconds.
+Time for k =  8, n = 13, r =  7 : 0.01 seconds.
+Time for k =  8, n = 13, r =  8 : 0.24 seconds.
+Time for k =  8, n = 13, r =  9 : 1.68 seconds.
+Time for k =  8, n = 13, r = 10 : 311 seconds.
+aw(Z_{n=13},k=08) = 10.
+Time for k =  9, n = 13, r =  2 : 0.00 seconds.
+Time for k =  9, n = 13, r =  3 : 0.00 seconds.
+Time for k =  9, n = 13, r =  4 : 0.00 seconds.
+Time for k =  9, n = 13, r =  5 : 0.00 seconds.
+Time for k =  9, n = 13, r =  6 : 0.00 seconds.
+Time for k =  9, n = 13, r =  7 : 0.02 seconds.
+Time for k =  9, n = 13, r =  8 : 0.08 seconds.
+Time for k =  9, n = 13, r =  9 : 1.57 seconds.
+Time for k =  9, n = 13, r = 10 : 451 seconds.
+aw(Z_{n=13},k=09) = 10.
+Time for k = 10, n = 13, r =  2 : 0.00 seconds.
+Time for k = 10, n = 13, r =  3 : 0.00 seconds.
+Time for k = 10, n = 13, r =  4 : 0.00 seconds.
+Time for k = 10, n = 13, r =  5 : 0.00 seconds.
+Time for k = 10, n = 13, r =  6 : 0.00 seconds.
+Time for k = 10, n = 13, r =  7 : 0.02 seconds.
+Time for k = 10, n = 13, r =  8 : 0.10 seconds.
+Time for k = 10, n = 13, r =  9 : 0.44 seconds.
+Time for k = 10, n = 13, r = 10 : 13.24 seconds.
+Time for k = 10, n = 13, r = 11 : 622 seconds.
+aw(Z_{n=13},k=10) = 11.
+Time for k = 11, n = 13, r =  2 : 0.00 seconds.
+Time for k = 11, n = 13, r =  3 : 0.00 seconds.
+Time for k = 11, n = 13, r =  4 : 0.00 seconds.
+Time for k = 11, n = 13, r =  5 : 0.00 seconds.
+Time for k = 11, n = 13, r =  6 : 0.01 seconds.
+Time for k = 11, n = 13, r =  7 : 0.03 seconds.
+Time for k = 11, n = 13, r =  8 : 0.10 seconds.
+Time for k = 11, n = 13, r =  9 : 0.55 seconds.
+Time for k = 11, n = 13, r = 10 : 3.27 seconds.
+Time for k = 11, n = 13, r = 11 : 706 seconds.
+aw(Z_{n=13},k=11) = 11.
+Time for k = 12, n = 13, r =  2 : 0.00 seconds.
+Time for k = 12, n = 13, r =  3 : 0.00 seconds.
+Time for k = 12, n = 13, r =  4 : 0.00 seconds.
+Time for k = 12, n = 13, r =  5 : 0.00 seconds.
+Time for k = 12, n = 13, r =  6 : 0.01 seconds.
+Time for k = 12, n = 13, r =  7 : 0.04 seconds.
+Time for k = 12, n = 13, r =  8 : 0.15 seconds.
+Time for k = 12, n = 13, r =  9 : 0.76 seconds.
+Time for k = 12, n = 13, r = 10 : 3.69 seconds.
+Time for k = 12, n = 13, r = 11 : 22.51 seconds.
+Time for k = 12, n = 13, r = 12 : 859 seconds.
+aw(Z_{n=13},k=12) = 12.
+Time for k =  3, n = 14, r =  2 : 0.00 seconds.
+Time for k =  3, n = 14, r =  3 : 0.00 seconds.
+Time for k =  3, n = 14, r =  4 : 0.00 seconds.
+aw(Z_{n=14},k=03) = 4.
+Time for k =  4, n = 14, r =  2 : 0.00 seconds.
+Time for k =  4, n = 14, r =  3 : 0.00 seconds.
+Time for k =  4, n = 14, r =  4 : 0.00 seconds.
+Time for k =  4, n = 14, r =  5 : 0.00 seconds.
+Time for k =  4, n = 14, r =  6 : 0.33 seconds.
+aw(Z_{n=14},k=04) = 6.
+Time for k =  5, n = 14, r =  2 : 0.00 seconds.
+Time for k =  5, n = 14, r =  3 : 0.00 seconds.
+Time for k =  5, n = 14, r =  4 : 0.00 seconds.
+Time for k =  5, n = 14, r =  5 : 0.00 seconds.
+Time for k =  5, n = 14, r =  6 : 0.01 seconds.
+Time for k =  5, n = 14, r =  7 : 0.62 seconds.
+Time for k =  5, n = 14, r =  8 : 27.44 seconds.
+aw(Z_{n=14},k=05) = 8.
+Time for k =  6, n = 14, r =  2 : 0.00 seconds.
+Time for k =  6, n = 14, r =  3 : 0.00 seconds.
+Time for k =  6, n = 14, r =  4 : 0.00 seconds.
+Time for k =  6, n = 14, r =  5 : 0.00 seconds.
+Time for k =  6, n = 14, r =  6 : 0.01 seconds.
+Time for k =  6, n = 14, r =  7 : 0.03 seconds.
+Time for k =  6, n = 14, r =  8 : 0.18 seconds.
+Time for k =  6, n = 14, r =  9 : 14.77 seconds.
+Time for k =  6, n = 14, r = 10 : 342 seconds.
+aw(Z_{n=14},k=06) = 10.
+Time for k =  7, n = 14, r =  2 : 0.00 seconds.
+Time for k =  7, n = 14, r =  3 : 0.00 seconds.
+Time for k =  7, n = 14, r =  4 : 0.00 seconds.
+Time for k =  7, n = 14, r =  5 : 0.00 seconds.
+Time for k =  7, n = 14, r =  6 : 0.00 seconds.
+Time for k =  7, n = 14, r =  7 : 0.04 seconds.
+Time for k =  7, n = 14, r =  8 : 0.21 seconds.
+Time for k =  7, n = 14, r =  9 : 1.22 seconds.
+Time for k =  7, n = 14, r = 10 : 35.46 seconds.
+Time for k =  7, n = 14, r = 11 : 214.66 seconds.
+Time for k =  7, n = 14, r = 12 : 1228 seconds.
+aw(Z_{n=14},k=07) = 12.
+Time for k =  8, n = 14, r =  2 : 0.00 seconds.
+Time for k =  8, n = 14, r =  3 : 0.00 seconds.
+Time for k =  8, n = 14, r =  4 : 0.00 seconds.
+Time for k =  8, n = 14, r =  5 : 0.00 seconds.
+Time for k =  8, n = 14, r =  6 : 0.00 seconds.
+Time for k =  8, n = 14, r =  7 : 0.01 seconds.
+Time for k =  8, n = 14, r =  8 : 0.22 seconds.
+Time for k =  8, n = 14, r =  9 : 1.38 seconds.
+Time for k =  8, n = 14, r = 10 : 8.89 seconds.
+Time for k =  8, n = 14, r = 11 : 320 seconds.
+Time for k =  8, n = 14, r = 12 : 2097 seconds.
+aw(Z_{n=14},k=08) = 12.
+Time for k =  9, n = 14, r =  2 : 0.00 seconds.
+Time for k =  9, n = 14, r =  3 : 0.00 seconds.
+Time for k =  9, n = 14, r =  4 : 0.00 seconds.
+Time for k =  9, n = 14, r =  5 : 0.00 seconds.
+Time for k =  9, n = 14, r =  6 : 0.00 seconds.
+Time for k =  9, n = 14, r =  7 : 0.01 seconds.
+Time for k =  9, n = 14, r =  8 : 0.07 seconds.
+Time for k =  9, n = 14, r =  9 : 1.37 seconds.
+Time for k =  9, n = 14, r = 10 : 9.47 seconds.
+Time for k =  9, n = 14, r = 11 : 402 seconds.
+Time for k =  9, n = 14, r = 12 : 2805 seconds.
+aw(Z_{n=14},k=09) = 12.
+Time for k = 10, n = 14, r =  2 : 0.00 seconds.
+Time for k = 10, n = 14, r =  3 : 0.00 seconds.
+Time for k = 10, n = 14, r =  4 : 0.00 seconds.
+Time for k = 10, n = 14, r =  5 : 0.00 seconds.
+Time for k = 10, n = 14, r =  6 : 0.00 seconds.
+Time for k = 10, n = 14, r =  7 : 0.02 seconds.
+Time for k = 10, n = 14, r =  8 : 0.08 seconds.
+Time for k = 10, n = 14, r =  9 : 0.41 seconds.
+Time for k = 10, n = 14, r = 10 : 9.30 seconds.
+Time for k = 10, n = 14, r = 11 : 78.77 seconds.
+Time for k = 10, n = 14, r = 12 : 3512 seconds.
+aw(Z_{n=14},k=10) = 12.
+Time for k = 11, n = 14, r =  2 : 0.00 seconds.
+Time for k = 11, n = 14, r =  3 : 0.00 seconds.
+Time for k = 11, n = 14, r =  4 : 0.00 seconds.
+Time for k = 11, n = 14, r =  5 : 0.00 seconds.
+Time for k = 11, n = 14, r =  6 : 0.00 seconds.
+Time for k = 11, n = 14, r =  7 : 0.02 seconds.
+Time for k = 11, n = 14, r =  8 : 0.10 seconds.
+Time for k = 11, n = 14, r =  9 : 0.48 seconds.
+Time for k = 11, n = 14, r = 10 : 2.69 seconds.
+Time for k = 11, n = 14, r = 11 : 65.86 seconds.
+Time for k = 11, n = 14, r = 12 : 4192 seconds.
+aw(Z_{n=14},k=11) = 12.
+Time for k = 12, n = 14, r =  2 : 0.00 seconds.
+Time for k = 12, n = 14, r =  3 : 0.00 seconds.
+Time for k = 12, n = 14, r =  4 : 0.00 seconds.
+Time for k = 12, n = 14, r =  5 : 0.00 seconds.
+Time for k = 12, n = 14, r =  6 : 0.01 seconds.
+Time for k = 12, n = 14, r =  7 : 0.02 seconds.
+Time for k = 12, n = 14, r =  8 : 0.11 seconds.
+Time for k = 12, n = 14, r =  9 : 0.56 seconds.
+Time for k = 12, n = 14, r = 10 : 3.08 seconds.
+Time for k = 12, n = 14, r = 11 : 17.91 seconds.
+Time for k = 12, n = 14, r = 12 : 715 seconds.
+Time for k = 12, n = 14, r = 13 : 4925 seconds.
+aw(Z_{n=14},k=12) = 13.
+Time for k = 13, n = 14, r =  2 : 0.00 seconds.
+Time for k = 13, n = 14, r =  3 : 0.00 seconds.
+Time for k = 13, n = 14, r =  4 : 0.00 seconds.
+Time for k = 13, n = 14, r =  5 : 0.00 seconds.
+Time for k = 13, n = 14, r =  6 : 0.01 seconds.
+Time for k = 13, n = 14, r =  7 : 0.03 seconds.
+Time for k = 13, n = 14, r =  8 : 0.13 seconds.
+Time for k = 13, n = 14, r =  9 : 0.65 seconds.
+Time for k = 13, n = 14, r = 10 : 3.55 seconds.
+Time for k = 13, n = 14, r = 11 : 20.56 seconds.
+Time for k = 13, n = 14, r = 12 : 127.25 seconds.
+Time for k = 13, n = 14, r = 13 : 5695 seconds.
+aw(Z_{n=14},k=13) = 13.
+Time for k =  3, n = 15, r =  2 : 0.00 seconds.
+Time for k =  3, n = 15, r =  3 : 0.00 seconds.
+Time for k =  3, n = 15, r =  4 : 0.00 seconds.
+aw(Z_{n=15},k=03) = 4.
+Time for k =  4, n = 15, r =  2 : 0.00 seconds.
+Time for k =  4, n = 15, r =  3 : 0.00 seconds.
+Time for k =  4, n = 15, r =  4 : 0.00 seconds.
+Time for k =  4, n = 15, r =  5 : 0.00 seconds.
+Time for k =  4, n = 15, r =  6 : 0.04 seconds.
+Time for k =  4, n = 15, r =  7 : 0.18 seconds.
+Time for k =  4, n = 15, r =  8 : 1.32 seconds.
+aw(Z_{n=15},k=04) = 8.
+Time for k =  5, n = 15, r =  2 : 0.00 seconds.
+Time for k =  5, n = 15, r =  3 : 0.00 seconds.
+Time for k =  5, n = 15, r =  4 : 0.00 seconds.
+Time for k =  5, n = 15, r =  5 : 0.00 seconds.
+Time for k =  5, n = 15, r =  6 : 0.00 seconds.
+Time for k =  5, n = 15, r =  7 : 0.06 seconds.
+Time for k =  5, n = 15, r =  8 : 0.92 seconds.
+Time for k =  5, n = 15, r =  9 : 6.81 seconds.
+Time for k =  5, n = 15, r = 10 : 35.86 seconds.
+Time for k =  5, n = 15, r = 11 : 138.92 seconds.
+aw(Z_{n=15},k=05) = 11.
+Time for k =  6, n = 15, r =  2 : 0.00 seconds.
+Time for k =  6, n = 15, r =  3 : 0.00 seconds.
+Time for k =  6, n = 15, r =  4 : 0.00 seconds.
+Time for k =  6, n = 15, r =  5 : 0.00 seconds.
+Time for k =  6, n = 15, r =  6 : 0.01 seconds.
+Time for k =  6, n = 15, r =  7 : 0.03 seconds.
+Time for k =  6, n = 15, r =  8 : 0.15 seconds.
+Time for k =  6, n = 15, r =  9 : 9.76 seconds.
+Time for k =  6, n = 15, r = 10 : 119.04 seconds.
+Time for k =  6, n = 15, r = 11 : 1012 seconds.
+Time for k =  6, n = 15, r = 12 : 1601 seconds.
+aw(Z_{n=15},k=06) = 12.
+Time for k =  7, n = 15, r =  2 : 0.00 seconds.
+Time for k =  7, n = 15, r =  3 : 0.00 seconds.
+Time for k =  7, n = 15, r =  4 : 0.00 seconds.
+Time for k =  7, n = 15, r =  5 : 0.00 seconds.
+Time for k =  7, n = 15, r =  6 : 0.00 seconds.
+Time for k =  7, n = 15, r =  7 : 0.04 seconds.
+Time for k =  7, n = 15, r =  8 : 0.20 seconds.
+Time for k =  7, n = 15, r =  9 : 1.16 seconds.
+Time for k =  7, n = 15, r = 10 : 312 seconds.
+Time for k =  7, n = 15, r = 11 : 3440 seconds.
+Time for k =  7, n = 15, r = 12 : 6343 seconds.
+aw(Z_{n=15},k=07) = 12.
+Time for k =  8, n = 15, r =  2 : 0.00 seconds.
+Time for k =  8, n = 15, r =  3 : 0.00 seconds.
+Time for k =  8, n = 15, r =  4 : 0.00 seconds.
+Time for k =  8, n = 15, r =  5 : 0.00 seconds.
+Time for k =  8, n = 15, r =  6 : 0.00 seconds.
+Time for k =  8, n = 15, r =  7 : 0.01 seconds.
+Time for k =  8, n = 15, r =  8 : 0.22 seconds.
+Time for k =  8, n = 15, r =  9 : 1.41 seconds.
+Time for k =  8, n = 15, r = 10 : 23.76 seconds.
+Time for k =  8, n = 15, r = 11 : 6652 seconds.
+Time for k =  8, n = 15, r = 12 : 13697 seconds.
+aw(Z_{n=15},k=08) = 12.
+Time for k =  9, n = 15, r =  2 : 0.00 seconds.
+Time for k =  9, n = 15, r =  3 : 0.00 seconds.
+Time for k =  9, n = 15, r =  4 : 0.00 seconds.
+Time for k =  9, n = 15, r =  5 : 0.00 seconds.
+Time for k =  9, n = 15, r =  6 : 0.00 seconds.
+Time for k =  9, n = 15, r =  7 : 0.01 seconds.
+Time for k =  9, n = 15, r =  8 : 0.07 seconds.
+Time for k =  9, n = 15, r =  9 : 1.45 seconds.
+Time for k =  9, n = 15, r = 10 : 10.12 seconds.
+Time for k =  9, n = 15, r = 11 : 405 seconds.
+Time for k =  9, n = 15, r = 12 : 9575 seconds.
+Time for k =  9, n = 15, r = 13 : 21013 seconds.
+aw(Z_{n=15},k=09) = 13.
+Time for k = 10, n = 15, r =  2 : 0.00 seconds.
+Time for k = 10, n = 15, r =  3 : 0.00 seconds.
+Time for k = 10, n = 15, r =  4 : 0.00 seconds.
+Time for k = 10, n = 15, r =  5 : 0.00 seconds.
+Time for k = 10, n = 15, r =  6 : 0.00 seconds.
+Time for k = 10, n = 15, r =  7 : 0.02 seconds.
+Time for k = 10, n = 15, r =  8 : 0.09 seconds.
+Time for k = 10, n = 15, r =  9 : 0.44 seconds.
+Time for k = 10, n = 15, r = 10 : 9.99 seconds.
+Time for k = 10, n = 15, r = 11 : 77.72 seconds.
+Time for k = 10, n = 15, r = 12 : 2521 seconds.
+Time for k = 10, n = 15, r = 13 : 23079 seconds.
+Time for k = 10, n = 15, r = 14 : 27159 seconds.
+aw(Z_{n=15},k=10) = 14.
+Time for k = 11, n = 15, r =  2 : 0.00 seconds.
+Time for k = 11, n = 15, r =  3 : 0.00 seconds.
+Time for k = 11, n = 15, r =  4 : 0.00 seconds.
+Time for k = 11, n = 15, r =  5 : 0.00 seconds.
+Time for k = 11, n = 15, r =  6 : 0.01 seconds.
+Time for k = 11, n = 15, r =  7 : 0.02 seconds.
+Time for k = 11, n = 15, r =  8 : 0.10 seconds.
+Time for k = 11, n = 15, r =  9 : 0.52 seconds.
+Time for k = 11, n = 15, r = 10 : 2.84 seconds.
+Time for k = 11, n = 15, r = 11 : 70.99 seconds.
+Time for k = 11, n = 15, r = 12 : 669 seconds.
+Time for k = 11, n = 15, r = 13 : 29035 seconds.
+Time for k = 11, n = 15, r = 14 : 34568 seconds.
+aw(Z_{n=15},k=11) = 14.
+Time for k = 12, n = 15, r =  2 : 0.00 seconds.
+Time for k = 12, n = 15, r =  3 : 0.00 seconds.
+Time for k = 12, n = 15, r =  4 : 0.00 seconds.
+Time for k = 12, n = 15, r =  5 : 0.00 seconds.
+Time for k = 12, n = 15, r =  6 : 0.01 seconds.
+Time for k = 12, n = 15, r =  7 : 0.03 seconds.
+Time for k = 12, n = 15, r =  8 : 0.12 seconds.
+Time for k = 12, n = 15, r =  9 : 0.63 seconds.
+Time for k = 12, n = 15, r = 10 : 3.47 seconds.
+Time for k = 12, n = 15, r = 11 : 20.43 seconds.
+Time for k = 12, n = 15, r = 12 : 701 seconds.
+Time for k = 12, n = 15, r = 13 : 5590 seconds.
+Time for k = 12, n = 15, r = 14 : 40219 seconds.
+aw(Z_{n=15},k=12) = 14.
+Time for k = 13, n = 15, r =  2 : 0.00 seconds.
+Time for k = 13, n = 15, r =  3 : 0.00 seconds.
+Time for k = 13, n = 15, r =  4 : 0.00 seconds.
+Time for k = 13, n = 15, r =  5 : 0.00 seconds.
+Time for k = 13, n = 15, r =  6 : 0.01 seconds.
+Time for k = 13, n = 15, r =  7 : 0.03 seconds.
+Time for k = 13, n = 15, r =  8 : 0.15 seconds.
+Time for k = 13, n = 15, r =  9 : 0.73 seconds.
+Time for k = 13, n = 15, r = 10 : 4.01 seconds.
+Time for k = 13, n = 15, r = 11 : 23.52 seconds.
+Time for k = 13, n = 15, r = 12 : 145.53 seconds.
+Time for k = 13, n = 15, r = 13 : 6486 seconds.
+Time for k = 13, n = 15, r = 14 : 47211 seconds.
+aw(Z_{n=15},k=13) = 14.
+Time for k = 14, n = 15, r =  2 : 0.00 seconds.
+Time for k = 14, n = 15, r =  3 : 0.00 seconds.
+Time for k = 14, n = 15, r =  4 : 0.00 seconds.
+Time for k = 14, n = 15, r =  5 : 0.00 seconds.
+Time for k = 14, n = 15, r =  6 : 0.01 seconds.
+Time for k = 14, n = 15, r =  7 : 0.03 seconds.
+Time for k = 14, n = 15, r =  8 : 0.17 seconds.
+Time for k = 14, n = 15, r =  9 : 0.87 seconds.
+Time for k = 14, n = 15, r = 10 : 4.67 seconds.
+Time for k = 14, n = 15, r = 11 : 27.12 seconds.
+Time for k = 14, n = 15, r = 12 : 167.43 seconds.
+Time for k = 14, n = 15, r = 13 : 1100 seconds.
+Time for k = 14, n = 15, r = 14 : 54546 seconds.
+aw(Z_{n=15},k=14) = 14.
+Time for k =  3, n = 16, r =  2 : 0.00 seconds.
+Time for k =  3, n = 16, r =  3 : 0.00 seconds.
+aw(Z_{n=16},k=03) = 3.
+Time for k =  4, n = 16, r =  2 : 0.00 seconds.
+Time for k =  4, n = 16, r =  3 : 0.00 seconds.
+Time for k =  4, n = 16, r =  4 : 0.00 seconds.
+Time for k =  4, n = 16, r =  5 : 0.00 seconds.
+Time for k =  4, n = 16, r =  6 : 0.13 seconds.
+Time for k =  4, n = 16, r =  7 : 0.64 seconds.
+Time for k =  4, n = 16, r =  8 : 1.94 seconds.
+aw(Z_{n=16},k=04) = 8.
+Time for k =  5, n = 16, r =  2 : 0.00 seconds.
+Time for k =  5, n = 16, r =  3 : 0.00 seconds.
+Time for k =  5, n = 16, r =  4 : 0.00 seconds.
+Time for k =  5, n = 16, r =  5 : 0.00 seconds.
+Time for k =  5, n = 16, r =  6 : 0.00 seconds.
+Time for k =  5, n = 16, r =  7 : 0.19 seconds.
+Time for k =  5, n = 16, r =  8 : 1.31 seconds.
+Time for k =  5, n = 16, r =  9 : 30.13 seconds.
+Time for k =  5, n = 16, r = 10 : 306 seconds.
+aw(Z_{n=16},k=05) = 10.
+Time for k =  6, n = 16, r =  2 : 0.00 seconds.
+Time for k =  6, n = 16, r =  3 : 0.00 seconds.
+Time for k =  6, n = 16, r =  4 : 0.00 seconds.
+Time for k =  6, n = 16, r =  5 : 0.00 seconds.
+Time for k =  6, n = 16, r =  6 : 0.01 seconds.
+Time for k =  6, n = 16, r =  7 : 0.03 seconds.
+Time for k =  6, n = 16, r =  8 : 0.17 seconds.
+Time for k =  6, n = 16, r =  9 : 3.94 seconds.
