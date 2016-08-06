@@ -1,5 +1,5 @@
 /*
- * rainbow.cpp
+ * rainbow_zn.cpp
  *
  *  Created on: Sep 10, 2013
  *      Author: stolee
@@ -52,7 +52,7 @@ int updateAllowed(char* allowed, char* colors, int k, int r, int n, int i)
 
 	for ( int j = 0; j < i; j++ )
 	{
-		colors_used[colors[j]] = 1;
+		colors_used[(int)colors[j]] = 1;
 	}
 
 	int num_colors_used = 0;
@@ -93,9 +93,9 @@ int updateAllowed(char* allowed, char* colors, int k, int r, int n, int i)
 				if ( t >= 0 && t <= i )
 				{
 					num_colored++;
-					(colors_used[colors[t]])++;
+					(colors_used[(int)colors[t]])++;
 
-					if ( colors_used[colors[t]] > 1 )
+					if ( colors_used[(int)colors[t]] > 1 )
 					{
 						is_rainbow = 0;
 					}
@@ -261,13 +261,6 @@ int main(int argc, char** argv)
 		}
 
 		aw[n][n] = n;
-	}
-
-	bool use_all_k = true;
-
-	if ( argc > 1 && strcmp(argv[1], "k=3") == 0 )
-	{
-		use_all_k = false;
 	}
 
 	int n = 3;

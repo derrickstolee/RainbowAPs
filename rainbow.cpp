@@ -89,7 +89,7 @@ int updateAllowed(char* allowed, char* colors, int k, int r, int n, int i)
 	bzero(colors_used, r);
 	for ( int j = 0; j <= i; j++ )
 	{
-		(colors_used[colors[j]])++;
+		(colors_used[(int)colors[j]])++;
 	}
 
 	int num_colors_so_far = 0;
@@ -119,9 +119,9 @@ int updateAllowed(char* allowed, char* colors, int k, int r, int n, int i)
 			for ( int l = 0; l < k - 1; l++ )
 			{
 				int t = i - (l * d);
-				(colors_used[colors[t]])++;
+				(colors_used[(int)colors[t]])++;
 
-				if ( colors_used[colors[t]] > 1 )
+				if ( colors_used[(int)colors[t]] > 1 )
 				{
 					is_rainbow = 0;
 				}
@@ -250,13 +250,6 @@ int main(int argc, char** argv)
 		}
 
 		aw[n][n] = n;
-	}
-
-	bool use_all_k = true;
-
-	if ( argc > 1 && strcmp(argv[1], "k=3") == 0 )
-	{
-		use_all_k = false;
 	}
 
 	for ( int n = 3; n < 300; n++ )
